@@ -16,4 +16,11 @@ We will continually develop matching caps for different PiHat, based on PiSugar 
 | respeaker_cap | ReSpeaker 2-Mics Pi HAT | Beta 测试中 | 
 
 
-PiSugar外壳基础版 Link to PiSugar Case：https://github.com/PiSugar/PiSugar/tree/master/model
+#### 这些盖子要怎么使用？
+
+盖子需配合PiSugar基础外壳使用，详见：https://github.com/PiSugar/PiSugar/tree/master/model
+
+
+#### 想为手头的PiHat制作配套的PiSugar盖子？
+
+请移步指  www.pisugar.com 加入我们的讨论群，向我们提出你的需求。
