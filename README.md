@@ -2,7 +2,7 @@
 
 ![PiSugar Logo](https://raw.githubusercontent.com/JdaieLin/PiSugar/master/logo.jpg)
 
-此项目将持续开发适用于PiSugar外壳的配套PiHat盖子。
+此项目将持续开发适用于PiSugar外壳的配套盖子。
 
 We will continually develop matching caps for different PiHat, based on PiSugar case.
 
