@@ -12,7 +12,7 @@ We will continually develop matching caps for different PiHat, based on PiSugar 
 | camera_cap | Raspberry Pi Camera v1.3 | Released 已完成 | 
 | 1.3inch_lcd_cap | Waveshare 1.3inch LCD HAT | Beta 测试中 |
 | 1.3inch_oled_cap | Waveshare 1.3inch OLED HAT | Beta 测试中 |
-| 2.13inch_epaper_cap | Waveshare 2.13inch e-Paper HAT | Developing 开发中 |
+| 2.13inch_epaper_cap | Waveshare 2.13inch e-Paper HAT | Beta 测试中 |
 | respeaker_cap | ReSpeaker 2-Mics Pi HAT | Beta 测试中 | 
 
 
@@ -23,4 +23,4 @@ We will continually develop matching caps for different PiHat, based on PiSugar 
 
 #### 想为手头的PiHat制作配套的PiSugar盖子？
 
-请移步指  www.pisugar.com 加入我们的讨论群，向我们提出你的需求。
+请移步指  https://www.pisugar.net/weixin/ 加入我们的讨论群，向我们提出你的需求。
