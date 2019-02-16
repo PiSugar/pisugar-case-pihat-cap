@@ -23,4 +23,4 @@ We will continually develop matching caps for different PiHat, based on PiSugar 
 
 #### 想为手头的PiHat制作配套的PiSugar盖子？
 
-请移步指  www.pisugar.com 加入我们的讨论群，向我们提出你的需求。
+请移步指  https://www.pisugar.net/weixin/ 加入我们的讨论群，向我们提出你的需求。
