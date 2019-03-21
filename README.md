@@ -14,8 +14,8 @@ We will continually develop matching caps for different PiHat, based on PiSugar 
 | 1.3inch_oled_cap | Waveshare 1.3inch OLED HAT | Released 已完成 |
 | 2.13inch_epaper_cap | Waveshare 2.13inch e-Paper HAT | Released 已完成 |
 | respeaker_cap | ReSpeaker 2-Mics Pi HAT | Released 已完成 | 
-| mmdvm_cap | MMDVM HAT | Beta 测试中 | 
-| usb_cap | USB Hub HAT | Beta 测试中 | 
+| mmdvm_cap | JamboSpot MMDVM HAT | Released 已完成 | 
+| usb_cap | Waveshare USB Hub HAT | Released 已完成 | 
 
 #### 说明网址
 
