@@ -24,6 +24,7 @@ We will continually develop matching caps for different PiHat, based on PiSugar 
 #### 这些盖子要怎么使用？ How to use these caps?
 
 盖子需配合PiSugar基础外壳使用，详见：https://github.com/PiSugar/PiSugar/tree/master/model
+
 These caps are used with PiSugar case (basic version), link: https://github.com/PiSugar/PiSugar/tree/master/model
 
 
