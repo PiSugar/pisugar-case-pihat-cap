@@ -16,8 +16,9 @@ We will continually develop matching caps for different PiHat, based on PiSugar 
 | respeaker_cap | ReSpeaker 2-Mics Pi HAT | Released 已完成 | 
 | mmdvm_cap | JamboSpot MMDVM HAT | Released 已完成 | 
 | usb_cap | Waveshare USB Hub HAT | Released 已完成 | 
-| epaper_driver_cap | Waveshare ePaper Driver HAT | Developing 研发中 | 
-| 4G_cap | Waveshare SIM7000C 4G Hat | Developing 研发中 | 
+| epaper_driver_cap | Waveshare ePaper Driver HAT | Released 已完成 | 
+| 4G_cap | Waveshare SIM7000C 4G Hat | Released 已完成 | 
+| transparent_cap | general 通用型盖子 | Develeping 研发中 | 
 
 #### 说明网址
 
