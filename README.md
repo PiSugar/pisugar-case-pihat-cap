@@ -18,18 +18,21 @@ We will continually develop matching caps for different PiHat, based on PiSugar 
 | usb_cap | Waveshare USB Hub HAT | Released 已完成 | 
 | epaper_driver_cap | Waveshare ePaper Driver HAT | Released 已完成 | 
 | 4G_cap | Waveshare SIM7000C 4G Hat | Released 已完成 | 
-| transparent_cap | general 通用型盖子 | Develeping 研发中 | 
-
-#### 说明网址
-
-https://www.pisugar.com/caps_season_1/
+| transparent_cap | general usage | Develeping 研发中 | 
 
 
-#### 这些盖子要怎么使用？
+#### 这些盖子要怎么使用？ How to use these caps?
 
 盖子需配合PiSugar基础外壳使用，详见：https://github.com/PiSugar/PiSugar/tree/master/model
+
+These caps are used with PiSugar case (basic version), link: https://github.com/PiSugar/PiSugar/tree/master/model
 
 
 #### 想为手头的PiHat制作配套的PiSugar盖子？
 
 请移步指  https://www.pisugar.net/weixin/ 加入我们的讨论群，向我们提出你的需求。
+
+
+#### 说明网址
+
+https://www.pisugar.com/caps_season_1/
