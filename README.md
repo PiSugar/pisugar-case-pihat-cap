@@ -18,8 +18,7 @@ We will continually develop matching caps for different PiHat, based on PiSugar 
 | usb_cap | Waveshare USB Hub HAT | Released 已完成 | 
 | epaper_driver_cap | Waveshare ePaper Driver HAT | Released 已完成 | 
 | 4G_cap | Waveshare SIM7000C 4G Hat | Released 已完成 | 
-| transparent_cap | general usage | Released 已完成 |
-| led_cap | PIMORONI SCROLL PHAT HD | Developing 研发中 |
+| transparent_cap | PIMORONI SCROLL PHAT HD | Released 已完成 |
 | jot_bonnet_cap | Adafruit Joy Bonnet | Developing 研发中 |
 
 
