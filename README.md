@@ -20,7 +20,7 @@ We will continually develop matching caps for different PiHat, based on PiSugar 
 | 4G_cap | Waveshare SIM7000C 4G Hat | Released 已完成 | 
 | transparent_cap | PIMORONI SCROLL PHAT HD | Released 已完成 |
 | lego_cap |  | Testing 测试中 |
-| jot_bonnet_cap | Adafruit Joy Bonnet | Developing 研发中 |
+| jot_bonnet_cap | Adafruit Joy Bonnet | Testing 测试中 |
 
 
 #### 这些盖子要怎么使用？ How to use these caps?
