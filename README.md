@@ -1,11 +1,15 @@
 # pisugar-case-pihat-cap
 
-![PiSugar Logo](https://raw.githubusercontent.com/JdaieLin/PiSugar/master/logo.jpg)
+<p align="center">
+  <img width="320" src="https://raw.githubusercontent.com/JdaieLin/PiSugar/master/logo.jpg">
+</p>
+
 
 此项目将持续开发适用于PiSugar外壳的配套盖子。
 
 We will continually develop matching caps for different PiHat, based on PiSugar case.
 
+![PiSugar Caps](https://github.com/PiSugar/pisugar-case-pihat-cap/blob/master/gallery_w.jpg?raw=true)
 
 | Folder 文件夹 | PiHat 扩展 | Progress 进展 | 
 | - | :-: | :-: | 
