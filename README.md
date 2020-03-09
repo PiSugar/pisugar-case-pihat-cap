@@ -15,6 +15,7 @@ We will continually develop matching caps for different PiHat, based on PiSugar 
 | - | :-: | :-: | 
 | camera_cap | Raspberry Pi Camera v1.3 | Released 已完成 | 
 | 1.3inch_lcd_cap | Waveshare 1.3inch LCD HAT | Released 已完成 |
+| 1.44inch_lcd_cap | Waveshare 1.44inch LCD HAT | Released 已完成 |
 | 1.3inch_oled_cap | Waveshare 1.3inch OLED HAT | Released 已完成 |
 | 2.13inch_epaper_cap | Waveshare 2.13inch e-Paper HAT | Released 已完成 |
 | respeaker_cap | ReSpeaker 2-Mics Pi HAT | Released 已完成 | 
